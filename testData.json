@@ -1,0 +1,9 @@
+{
+    "userName":"Ishwar79",
+    "passWord":"123456789",
+    "interest":["cypress","Java","Selenium"],
+    "address":{
+        "area":"Karve nagar",
+        "pinCode":"411052"
+         }
+}
